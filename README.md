@@ -6,11 +6,9 @@
 
 <br />
 <br />
-<br />
 
-###[开始阅读](Doc/list.md)
+##[开始阅读](Doc/list.md)
 
-<br />
 <br />
 <br />
 
