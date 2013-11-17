@@ -1,13 +1,13 @@
 #目录
 
 - [01.公司系统软件安装](01.DP_System_Software_Installation.md)
-  - [OA](01.DP_System_Software_Installation.md#OA)
-  - [ERP](01.DP_System_Software_Installation.md#ERP)
+  - [OA](01.DP_System_Software_Installation.md#oa)
+  - [ERP](01.DP_System_Software_Installation.md#erp)
     - [ERP软件安装](01.DP_System_Software_Installation.md#ERP软件安装)
     - [ERP环境变量设置](01.DP_System_Software_Installation.md#ERP环境变量设置)
-  - [FOSS](01.DP_System_Software_Installation.md#FOSS)
-  - [CRM](01.DP_System_Software_Installation.md#CRM)
-  - [EHR](01.DP_System_Software_Installation.md#EHR)
+  - [FOSS](01.DP_System_Software_Installation.md#foss)
+  - [CRM](01.DP_System_Software_Installation.md#crm)
+  - [EHR](01.DP_System_Software_Installation.md#ehr)
 -[02.公司设备安装](02.DP_equipment_Installation.md)
   -[Cisco CVR328W VPN路由器](02.DP_equipment_Installation.md#Cisco CVR328W VPN路由器)
   -[斑马 标签打印机](02.DP_equipment_Installation.md#斑马 标签打印机)
