@@ -4,15 +4,14 @@
 
 - 目前文档才刚刚起步，欢迎各位同事提供一些IT维护安装/问题文档，如您手上有相关文档，请联系我
 
+<br />
+<br />
+<br />
 
+###[开始阅读](Doc/list.md)
 
-#目录
-
-- [01.公司系统软件安装](Doc/DP_System_Software_Installation.md)
-
-- [02.公司设备安装](Doc/DP_equipment_Installation.md)
-
-
-#附录
+<br />
+<br />
+<br />
 
 Power by [Link7ad](Link7ad@Gmail.com)
