@@ -22,3 +22,7 @@
   - [SHARP 网络打印机](02.DP_Equipment_Install.md#sharp-%E7%BD%91%E7%BB%9C%E6%89%93%E5%8D%B0%E6%9C%BA)
     - [安装打印功能](02.DP_Equipment_Install.md#%E5%AE%89%E8%A3%85%E6%89%93%E5%8D%B0%E5%8A%9F%E8%83%BD)
     - [安装扫描功能](02.DP_Equipment_Install.md#%E5%AE%89%E8%A3%85%E6%89%AB%E6%8F%8F%E5%8A%9F%E8%83%BD)
+
+- 额外.Apple设备
+
+  - [Mac OS X 10.9 制作安装U盘/应急启动U盘](Apple.MacToUSB.md)
