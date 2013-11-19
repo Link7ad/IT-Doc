@@ -30,7 +30,7 @@ defaults write com.apple.finder AppleShowAllFiles -bool false
 
 ![MacToUSB](../images/apple/mactousb05.png?raw=true)
 
-双击桌面上的 OSX 1.9镜像文件，系统会将镜像挂载成一个磁盘，显示在系统的最右侧。
+双击桌面上的 OSX 10.9镜像文件，系统会将镜像挂载成一个磁盘，显示在系统的最右侧。
 可以点击 `跳过` 来绕过验证
 
 ![MacToUSB](../images/apple/mactousb06.png?raw=true)
